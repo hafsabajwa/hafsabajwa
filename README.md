@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafsabajwa
 - 👀 I’m interested in Programming and developing.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently doing front-end development.
 - 💞️ I’m looking to collaborate on Full Stack Dvelopment.
 - 📫 How to reach me hafsa10117@gmail.com.
 
